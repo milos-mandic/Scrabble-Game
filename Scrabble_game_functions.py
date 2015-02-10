@@ -1,4 +1,4 @@
-# Hangman Word Game Functions
+# Scrabble Word Game Functions
 # Created by: Milos Mandic <shomyserbia>
 # Specifications by: MIT 6.00x staff
 #
